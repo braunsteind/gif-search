@@ -1,0 +1,19 @@
+input {
+    border-radius: 12px;
+    margin-top: 25%;
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+    border-radius: 12px;
+}
+
+hr {
+    visibility: hidden;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}

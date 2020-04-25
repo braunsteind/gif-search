@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gif-search-app"
+    }
+  },
+  "defaultProject": "gif-search-app",
+  "cli": {
+    "analytics": "02741b2e-59e9-4d66-a109-41f4070717ef"
+  }
 }
